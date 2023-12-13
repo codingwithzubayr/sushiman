@@ -288,7 +288,7 @@ a {
     flex-direction: column;
   }
 
-  .trending-drink {
+  .trending-drinks {
     flex-direction: column-reverse;
   }
 
@@ -306,14 +306,4 @@ a {
   }
 }
 
-@media screen and (max-width: 550px) {
-  .trending__image img {
-    width: 70%;
-    height: 70%;
-  }
 
-  .trending__content {
-    padding: 32px;
-  }
-}
-/* END: trending media queries */
